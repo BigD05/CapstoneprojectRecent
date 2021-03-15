@@ -1,2 +1,1 @@
-# CapstoneprojectRecent
-this project makes use of classes in java and in doing so we take 4 classes the architect,customer,contractor and the start project class and what these class do is create a person and create the start of the project which in this case is a building and the type of building it is etc. and these classes all make up the project that is called in the main file Poised.java 
+this project makes use of classes in java that a construction company would use in which we have 4 tasks that constitute to the creation of the project and then we call all the classes and they methods into the main file which is Poised.java
